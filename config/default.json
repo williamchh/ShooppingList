@@ -1,3 +1,3 @@
 {
-    "mongoURI":"mongodb+srv://WilliamChen:williamchen@contactkeeper.mx9by.mongodb.net/shoppinglist?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://<username>:<password>@<mongoatlas>/<dbname>"
 }
